@@ -131,10 +131,6 @@ This platform supports the center's **Strategic Goal #4** of capacity building i
 
 ---
 
-## 📄 License & Attribution
+
 
 © 2026 بيت الخبرة لجاهزية وصمود المؤسسات الصحية، جامعة الطائف. All rights reserved.
-
-Question bank references include content from *NCLEX-RN Review Made Incredibly Easy* 5th ed. (Lippincott Williams & Wilkins, 2011) used for educational fair-use within the institution.
-
-For licensing inquiries, please contact the administrator.
