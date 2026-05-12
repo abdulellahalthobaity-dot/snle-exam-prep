@@ -116,23 +116,18 @@ This platform follows the **SCFHS 2024 SNLE Applicant Guide** specifications:
 
 ---
 
-## 🏛️ About بيت الخبرة
+## 🏛️ About Leadpluse
 
-**بيت الخبرة لجاهزية وصمود المؤسسات الصحية** — Taif University
+Leadpluse
+This platform supports the center's **Strategic Goal #4** of capacity building in the Saudi healthcare sector.
 
-A specialized center focused on healthcare institution readiness and resilience. This platform supports the center's **Strategic Goal #4** of capacity building in the Saudi healthcare sector.
-
-**Leadership:**
-- **Director:** أ.د. عبدالاله الثبيتي
-- **R&D Assistant:** د. زكريا مني
-- **Operations Assistant:** د. محمد سلطان
-
+*
 ---
 
 ## 📞 Contact
 
 - **WhatsApp:** [+966 56 053 9627](https://wa.me/966560539627)
-- **Institution:** بيت الخبرة لجاهزية وصمود المؤسسات الصحية، جامعة الطائف
+- **Institution:** LeadPluse
 
 ---
 
