@@ -17,8 +17,6 @@
 
 ## 🏥 About
 
-A comprehensive web-based platform developed by **بيت الخبرة لجاهزية وصمود المؤسسات الصحية** at **Taif University** to help Saudi nursing graduates prepare for the SNLE Prometric examination.
-
 The platform is fully aligned with the **Saudi Commission for Health Specialties (SCFHS)** 2024 official specifications.
 
 ---
